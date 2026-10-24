@@ -6,7 +6,7 @@ Repository: `Faka-iAction/video-gen-public` (FAKA iAction platform, Video genera
 
 ## Status
 
-Scaffold only. Nothing is implemented yet.
+Not started. No videos have been produced yet.
 
 ## Visibility
 
